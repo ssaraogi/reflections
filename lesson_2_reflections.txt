@@ -28,3 +28,7 @@ What is the result of merging two branches together? Why do we represent it in t
     merging of the changes done in two bracnhes
     we represent the way we do because it is a DAG
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    PROS - large merges are done automatically, less time consuming
+    CONS - merging could be wrong and different than what you would have intended to
