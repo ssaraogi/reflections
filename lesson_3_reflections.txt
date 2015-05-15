@@ -2,3 +2,7 @@ When would you want to create a remote repository rather than keeping all your w
 
     in case of working in a team
     to take backup of local work so as to not loose it in case of local hard drive crash
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+    since there could be a case where i have done partial local commits which i do not want to be publicly available yet
