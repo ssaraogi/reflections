@@ -25,3 +25,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
     A shared location with a locking mechanism where only one person can do changes at a time
     Hard to have multiple people working together
     Easy to manage single person very small project not requiring commit history
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+    when we would want to work on a separate feature and collaborate with multiple people
+    PROS of branch strategy is easy to colaborate
+    PROS of working in master is that it is simpler
